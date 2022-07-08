@@ -5,4 +5,6 @@ Valid Operators: `+, -, *, /`. Can contain parentheses too.
 
 Valid Operands: numbers
 
+Takes single line input from `stdin`. 
+
 Reference material: [https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm](https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm)
